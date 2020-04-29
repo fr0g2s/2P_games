@@ -9,6 +9,7 @@
  */
 
 #include <iostream>
+#include <stdlib.h>
 #include "./TicTacToe/TicTacToe.h"
 
 using namespace std;
